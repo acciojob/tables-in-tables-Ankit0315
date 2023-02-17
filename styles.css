@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table,th,tr,td{
+	border:1px solid black;
+}
+.D1{
+	width:550px;
+	height:200px;
+}
+.R1{
+	text-align:center;
+}
+.t1{
+	width:250px;
+}
+.D2{
+	height:100px
+}
